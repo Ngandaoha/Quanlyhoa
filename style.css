@@ -1,0 +1,24 @@
+#banner{
+    width: 100%;
+    height: 180px;
+}
+h1{
+    text-align: center; font-size: 50px;
+    background-color: oldlace;
+    margin: 0;
+    color: darkolivegreen;
+}
+#id1{
+    text-align:center; font-size: 25px;
+    background-color: linen;
+    color: darkslategray;
+
+}
+table{
+    background-color: snow;
+    border-collapse: collapse;
+}
+th, td {
+    text-align: center;
+    border: 1px solid black;
+}
